@@ -1,7 +1,7 @@
 
 ### Olá Mundo! I'm Kaio! 💻
 
-#### Aprimorando os conhecimentos na computaria, foco em fullstack!
+#### Estudante de Sistemas de Informação que busca aprimorar os conhecimentos na computaria, foco em desenvolvimento fullstack!
 
 ## Statistics
 
