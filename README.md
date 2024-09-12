@@ -5,9 +5,8 @@
 
 ## Statistics:
 
-![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=kaioCsx&show_icons=true&theme=merko)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaioCsx&hide=javascript,html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaioCsx&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaioCsx&show_icons=true&theme=transparent)
 
 ## Languages ​​used:
 
